@@ -60,7 +60,7 @@
 		"indexof": "^0.0.1",
 		"jscs": "^3.0.7",
 		"replace": "^1.0.1",
-		"semver": "^5.6.0",
+		"semver": "^6.1.2",
 		"tape": "^4.9.1"
 	},
 	"testling": {
