@@ -60,7 +60,7 @@
 		"functions-have-names": "^1.2.0",
 		"indexof": "^0.0.1",
 		"replace": "^1.1.1",
-		"semver": "^6.3.0",
+		"semver": "^7.0.0",
 		"tape": "^4.11.0"
 	},
 	"testling": {
